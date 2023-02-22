@@ -1,2 +1,0 @@
-# Sakibbpibooks
-An online bookstore 
